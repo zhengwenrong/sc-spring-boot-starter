@@ -1,0 +1,5 @@
+META-INF/spring-configuration-metadata.json
+com/sc/starter/service/ScService.class
+com/sc/starter/config/ScAutoConfig.class
+com/sc/starter/properties/ScProperties.class
+com/sc/starter/ConditionalOnScStartEnabled.class

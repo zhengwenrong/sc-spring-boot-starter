@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "sc.test",
+      "type": "com.sc.starter.properties.ScProperties",
+      "sourceType": "com.sc.starter.properties.ScProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "sc.test.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sc.starter.properties.ScProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "sc.test.name",
+      "type": "java.lang.String",
+      "sourceType": "com.sc.starter.properties.ScProperties"
+    }
+  ],
+  "hints": []
+}
